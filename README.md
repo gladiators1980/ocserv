@@ -105,7 +105,8 @@ Reach out to me at one of the following places!
 # **License**
 
 
-![Bower](https://img.shields.io/bower/l/bootstrap.svg?style=for-the-badge)
+
+![license](https://img.shields.io/github/license/mashape/apistatus.svg?style=for-the-badge)
 
 
 - **[MIT license](http://opensource.org/licenses/mit-license.php)**
