@@ -1,7 +1,8 @@
 # **CISCO Project** [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://gitlab.com/limner/bank-tornadowebserver)
 
 
-![Travis](https://img.shields.io/travis/USER/REPO.svg)
+
+![TeamCity CodeBetter](https://img.shields.io/teamcity/codebetter/bt428.svg?style=for-the-badge)
 
 ![GitHub release](https://img.shields.io/github/release/qubyte/rubidium.svg?style=for-the-badge)
 
