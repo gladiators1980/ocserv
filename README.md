@@ -58,9 +58,13 @@ $ ./ocserv.sh
 ### Step1.1 : Edit Encrypting Info
 
 For Changing Encrypting info open ocserv.sh with nano or vim 
-then edit line 138-139 and 153-154
+
+Then edit line 138-139 and 153-154
+
 CN[138] = organization[139] = Your Comapany Name
+
 CN[153] = Server Ip Address or any A record To IP
+
 organization[154] = Your Comapany Name
 
 
